@@ -1,5 +1,5 @@
-I'm Don Johnston
-I’m interested in embedded microcontrollers and C, Python development.
+I'm Don Johnston.
+I’m interested in embedded microcontrollers and C, Python, Perl, HTML, JavaScript development.
 I'm currently learning how to use GitHub for software respository usage.
 I'm interested in collaborating on software development tools development.
 I can be reached at dljohnst@gmail.com.
