@@ -1,6 +1,6 @@
 I'm Don Johnston
 I’m interested in embedded microcontrollers and C, Python development.
-I'm currently learing how to use Git for software respository usage.
+I'm currently learning how to use GitHub for software respository usage.
 I'm interested in collaborating on software development tools development.
 I can be reached at dljohnst@gmail.com.
 
